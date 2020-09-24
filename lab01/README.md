@@ -8,3 +8,4 @@ Importando dados em JSON, CSV e XML no Python
 
 # Tarefa 2 sobre Engenharia Reversa
 
+![Diagrama](./images/diagrama.png)
